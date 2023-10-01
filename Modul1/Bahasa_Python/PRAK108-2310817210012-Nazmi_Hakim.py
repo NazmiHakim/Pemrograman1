@@ -1,0 +1,6 @@
+ak=5;bk=14;ck = bk / (ak * 2 * 3.14159);dk=round(ck,2)
+print("Diketahui :")
+print(f"Pak Dengklek mengelilingi taman = {ak} Putaran")
+print(f"Jarak tempuh Pak Dengklek = {bk} Kilometer")
+print("Jawaban :")
+print(f"Jari-jari taman yang dikelilingi Pak Dengklek adalah {dk} Kilometer")

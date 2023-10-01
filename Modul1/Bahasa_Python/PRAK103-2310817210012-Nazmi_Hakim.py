@@ -1,0 +1,6 @@
+a = 9;b = 6;c = 10;d=7;e=(a+b) * c / d;f=round(e, 2)
+print("Variabel a bernilai", a)
+print("Variabel b bernilai", b)
+print("Variabel x bernilai", c)
+print("Variabel y bernilai", d)
+print("Hasil dari a ditambah b dikali x dan dibagi y adalah", f)
