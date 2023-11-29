@@ -1,2 +1,2 @@
 # Pemrograman1
-program-program yang saya pelajari dan saya buat saat berkuliah di universitas lambung mangkurat Teknologi Informasi matkul pemrograman1
+Program-program yang saya pelajari dan saya buat saat berkuliah di Universitas Lambung Mangkurat Teknologi Informasi matkul pemrograman1
